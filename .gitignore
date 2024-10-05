@@ -3,3 +3,4 @@ docs/_build
 mead/local_config.py
 tags
 *.pyc
+.vscode

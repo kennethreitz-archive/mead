@@ -1,9 +1,0 @@
-/* CMS */
-	Chef: Kenneth Reitz
-	Contact: me [at] kennethreitz.com
-	Twitter: @kennethreitz
-	From: Winchester, Virginia, USA
-
-/* SITE */
-	Language:English
-	Tools: Mead, Flask, Python
