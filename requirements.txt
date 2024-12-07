@@ -1,3 +1,9 @@
-Flask==3.0.3
-Flask-SQLAlchemy-Lite==0.1.0
-Flask-Security==5.5.2
+flask>=3.0.0
+flask-sqlalchemy>=3.1.1
+flask-login>=0.6.3
+markdown2==2.4.10
+python-slugify>=8.0.1
+pillow>=10.1.0
+user-agents>=2.2.0
+feedgen>=1.0.0
+python-dotenv==1.0.1
