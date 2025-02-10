@@ -2,6 +2,8 @@
 
 No Javascript, No tracking, No themes, only your words and SQLite !
 
+![image](docs/blog-home.png)
+
 ## Create virtual environment
 
 ```
@@ -48,4 +50,5 @@ export FLASK_DEBUG=1
 uv run flask init-db
 uv run flask run
 ```
+
 
